@@ -7,4 +7,4 @@ alasan: Kedua topik tersebut sama-sama dapat dijalankan pada Visual Studio, namu
 
 B. Pemrograman Web
 topik yang diambil: HTML & CSS
-alasan: Kedua topik ini sangat relevan dan mudah dalam pengaplikasiannya.
+alasan: Kedua topik ini sangat relevan dan mudah dalam pengaplikasiannya. catatan: pastikan komputer terhubung dengan internet, agar website berjalan dengan baik.
